@@ -14,11 +14,11 @@
 
 - Link para documentação no Github: [https://github.com/rafaelknunes/sprint4AI/](https://github.com/rafaelknunes/sprint4AI/)
 
-- Link para o arquivo do vídeo com a apresentação do projeto: 
+- Link dos notebooks no Kaggle: 
+
+- Link para o arquivo do vídeo com a apresentação do projeto: [https://www.kaggle.com/code/rafaelknunes/predicting-sales-and-compensations-w-finance-data](https://www.kaggle.com/code/rafaelknunes/predicting-sales-and-compensations-w-finance-data)
 
 - Documento com a descrição da ideia está no arquivo: **apresentacao-final.pdf**
-
-- Link dos notebooks no Kaggle: [https://www.kaggle.com/code/rafaelknunes/predicting-sales-and-compensations-w-finance-data](https://www.kaggle.com/code/rafaelknunes/predicting-sales-and-compensations-w-finance-data)
 
 ---
 
