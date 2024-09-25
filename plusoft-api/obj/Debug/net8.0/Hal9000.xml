@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hal9000</name>
+    </assembly>
+    <members>
+        <member name="M:Hal9000.Controllers.FeedbacksController.GetFeedbacks">
+            <summary>
+            Retorna todos os Feedbacks.
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.FeedbacksController.GetFeedback(System.Int32)">
+            <summary>
+            Retorna o Feedback por id
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.FeedbacksController.AddFeedback(Hal9000.Models.Feedback)">
+            <summary>
+            Cria um Feedback.
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.FeedbacksController.UpdateFeedback(System.Int32,Hal9000.Models.Feedback)">
+            <summary>
+            Atualiza o feedback por id
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.FeedbacksController.DeleteFeedback(System.Int32)">
+            <summary>
+            Deleta um feedback por id
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.FeedbacksController.GetFeedbacksByUserEmail(System.String)">
+            <summary>
+            Obtem todos os feedbacks de um determinado email do usuário
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.UserController.GetUser">
+            <summary>
+            Retorna os usuários
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.UserController.AddUsers(Hal9000.Models.User)">
+            <summary>
+            Cria um user.
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Retorna um user por id
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.UserController.UpdateUser(Hal9000.Models.User)">
+            <summary>
+            Atualiza um user por id
+            </summary>
+        </member>
+        <member name="M:Hal9000.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Deleta um user por id
+            </summary>
+        </member>
+        <member name="T:Hal9000.Migrations.InitialMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:Hal9000.Migrations.InitialMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Hal9000.Migrations.InitialMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Hal9000.Migrations.InitialMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

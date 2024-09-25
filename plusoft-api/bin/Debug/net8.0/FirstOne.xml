@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FirstOne</name>
+    </assembly>
+    <members>
+        <member name="M:FirstOne.Controllers.DepartamentosController.GetDepartamentos">
+            <summary>
+            Retorna todos os departamentos.
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.DepartamentosController.GetDepartamento(System.Int32)">
+            <summary>
+            Retorna o departamento por id
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.DepartamentosController.AddDepartamento(FirstOne.Models.Departamento)">
+            <summary>
+            Cria um departamento.
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.DepartamentosController.UpdateDepartamento(System.Int32,FirstOne.Models.Departamento)">
+            <summary>
+            Atualiza o departamento por id
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.DepartamentosController.DeleteDepartamento(System.Int32)">
+            <summary>
+            Deleta um departamento por id
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.DepartamentosController.AssociarEmpregado(System.Int32,System.Int32)">
+            <summary>
+            Associa um empregado a um departamento específico.
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.DepartamentosController.GetEmpregadosPorDepartamento(System.Int32)">
+            <summary>
+            Retorna todos os empregados que estão associados a um departamento específico.
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.EmpregadosController.GetEmpregado">
+            <summary>
+            Retorna os empregados
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.EmpregadosController.AddEmpregados(FirstOne.Models.Empregado)">
+            <summary>
+            Cria um empregado.
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.EmpregadosController.GetEmpregado(System.Int32)">
+            <summary>
+            Retorna um empregado por id
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.EmpregadosController.UpdateEmpregado(FirstOne.Models.Empregado)">
+            <summary>
+            Atualiza um empregado por id
+            </summary>
+        </member>
+        <member name="M:FirstOne.Controllers.EmpregadosController.DeleteEmpregado(System.Int32)">
+            <summary>
+            Deleta um empregado por id
+            </summary>
+        </member>
+        <member name="T:FirstOne.Migrations.initial">
+            <inheritdoc />
+        </member>
+        <member name="M:FirstOne.Migrations.initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FirstOne.Migrations.initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FirstOne.Migrations.initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

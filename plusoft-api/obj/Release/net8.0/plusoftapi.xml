@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>plusoftapi</name>
+    </assembly>
+    <members>
+        <member name="M:plusoftapi.Controllers.FeedbacksController.GetFeedbacks(System.Int32,System.Int32)">
+            <summary>
+            Retorna todos os Feedbacks. Com paginação
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.FeedbacksController.GetFeedback(System.Int32)">
+            <summary>
+            Retorna o Feedback por id
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.FeedbacksController.AddFeedback(plusoftapi.Models.Feedback)">
+            <summary>
+            Cria um Feedback.
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.FeedbacksController.UpdateFeedback(System.Int32,plusoftapi.Models.Feedback)">
+            <summary>
+            Atualiza o feedback por id
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.FeedbacksController.DeleteFeedback(System.Int32)">
+            <summary>
+            Deleta um feedback por id
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.FeedbacksController.GetFeedbacksByUserEmail(System.String)">
+            <summary>
+            Obtem todos os feedbacks de um determinado email do usuário
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.UserController.GetUser">
+            <summary>
+            Retorna os usuários
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.UserController.AddUsers(plusoftapi.Models.User)">
+            <summary>
+            Cria um user.
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Retorna um user por id
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.UserController.UpdateUser(plusoftapi.Models.User)">
+            <summary>
+            Atualiza um user por id
+            </summary>
+        </member>
+        <member name="M:plusoftapi.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            Deleta um user por id
+            </summary>
+        </member>
+        <member name="T:plusoftapi.Migrations.InitialMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:plusoftapi.Migrations.InitialMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:plusoftapi.Migrations.InitialMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:plusoftapi.Migrations.InitialMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
