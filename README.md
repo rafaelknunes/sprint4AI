@@ -41,7 +41,7 @@ Esta base de dados inclui reclamações de consumidores relacionadas a produtos 
 
 Dentro dessa pasta, você encontrará os arquivos relacionados ao **Power BI**, que contêm as **análises exploratórias e visuais** feitos a partir da base de dados. As visualizações ajudam a entender as tendências e os padrões nas reclamações dos consumidores.
 
-### 4. **Modelo**
+### 4. **Notebooks**
 
 Esta pasta contém todos os notebooks relacionados ao desenvolvimento do **modelo de machine learning**, incluindo scripts em **Python** utilizados para o treinamento e validação do modelo.
 
