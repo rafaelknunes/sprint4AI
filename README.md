@@ -16,7 +16,7 @@
 
 - Link para documentação no Github: [https://github.com/rafaelknunes/sprint4AI/](https://github.com/rafaelknunes/sprint4AI/)
 
-- Link para o arquivo do vídeo com a apresentação do projeto: 
+- Link para o arquivo do vídeo com a apresentação do projeto: [https://www.youtube.com/watch?v=MNQov_72LdY](https://www.youtube.com/watch?v=MNQov_72LdY)
 
 - Documento com a descrição da ideia está no arquivo: **apresentacao-final.pdf**
 
