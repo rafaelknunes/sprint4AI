@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("plusoftapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88f1f96c146266c3f40f45be309ac6370738c9a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9a6711e870dc4439bf2fa55726e9b9e96745bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("plusoftapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("plusoftapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
